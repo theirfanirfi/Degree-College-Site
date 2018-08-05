@@ -1,0 +1,17 @@
+.font{
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+}
+.font2{
+    font-weight: bold;
+    color: black;
+    font-size: 15px;
+}
+.btn-style{
+    font-weight: bold;
+}
+.font3{
+    color:red;
+}

@@ -1,0 +1,19 @@
+* { margin: 0px; padding: 0px; }
+
+.title { font-family: "Elephant";font-style: italic; font-size: 30px;padding-bottom: 10px;}
+.title { border-bottom: 1px solid #eef5db; }
+.search-icon {float: right;margin:20px 0px;}
+.input-search { width: 40%;padding: 6px;margin:20px 0px;float: right;border-radius: 14px; }
+.navbar-default, .navbar-collapse { background-color: #417ec1; color:white; }
+	.navbar-default ul li a {color:white;}
+	.navbar-default .navbar-brand {color:white;}
+	.navbar-default .navbar-brand:hover {background-color: #518caa; color: white}
+	#bs-example-navbar-collapse-1 ul li a {color:white;}
+	#bs-example-navbar-collapse-1 ul li a:hover {background-color: #3e97f3;}
+
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      height: 300px;
+      margin: auto;
+  }

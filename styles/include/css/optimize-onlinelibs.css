@@ -1,0 +1,76 @@
+
+/*! Onlinlelibs-opt V1.0.0 file-size:1kb. (http://onlinelibs.com)*/
+/*! Source Start from Here */
+html {
+font-family: 'Century Gothic';
+-webkit-text-size-adjust: 100%;
+-ms-text-size-adjust: 100%;}
+body{ 
+background-color:rgb(246,246,246);
+background-color:rgb(246,246,246);
+
+border:none;
+border-radius: 0px;  
+box-shadow: none;
+color: none;
+display: block;
+font-style: normal;
+font-weight: normal;
+float:center;
+font-family: 'Century Gothic'; 
+font-size: 14px;
+height:100%;
+line-height: 1.42857143;
+line-break: auto;
+letter-spacing: normal;
+margin: 0px;
+margin-right: 0px; 
+padding: 0px; 
+position: absolute;
+text-align: start;
+text-decoration: none;
+text-shadow: none;
+text-transform: none;
+width:100%;
+word-break: normal;
+word-spacing: normal;
+word-wrap: normal;
+white-space: normal;
+overflow-y: scroll;
+overflow-x: hidden;}
+/*! End */
+
+
+.textstyle{
+	/* Using the custom font we've included in the HTML tab: */
+	font-family: Satisfy, cursive;
+}
+
+
+.lremove:hover{  text-decoration: none;}
+.om{ 
+
+ margin:100px 0px;
+ padding-top:4px;
+ text-align:center;
+ border:2px solid #000;
+ background-color:#222;
+ color:#fff;
+   text-decoration: none;
+border-radius: 0px;  
+box-shadow: none;
+}
+
+.on a :hover,
+.on a :focus {
+
+  background-color:#fff; 
+  color:#000;
+  border:2px solid #000;
+  border-radius: 0px;
+  text-decoration: none;
+box-shadow: none;
+
+
+}
+

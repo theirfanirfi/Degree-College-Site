@@ -1,0 +1,39 @@
+body{margin:0px;padding:0px;font-family:'Century Gothic';font-size:15px;background-image:url();color:#242;}.panel-style{background-color: 
+#0a9;background-image:url(../../blu-stripes.png);color:#fff;padding:0px;padding-left:5px;padding-bottom:8px;border-radius:0px;}.image-style{width:100px;border: 
+1px solid #242;}.list-border{border-left:2px solid #242;}.list-border li{list-style:none;}.list-border li:not(#not):hover{border-left:2px solid red;}.footer-top { 
+/*hacking01*/background-image:url();background-color:#098;color:white;padding:2em 0;}.footer-top a{color:#242;}.footer-bottom {background-image:
+/*hacking02*/url(../../broken-noise.png); background-color:#789680;padding:1em 0;color:white;}.footer-bottom a{color:#ffffff;font-weight:bold;}.copyrights {color:white; float
+/*hacking03*/:center;}.footer-left-border{   border-left: 1px solid #242;}.navbar-default {background-color: #F7F7F9; border-color: #e7e7e7; border-radius: 0px; box-shadow: 
+/*hacking04*/0px 2px 4px  gray;}. navbar-default .navbar-brand {color: #242;}.navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus {    color: #5e5e5e;    
+/*hacking05*/background-color: transparent;}.navbar-default .navbar-text {    color: #777;}.navbar-default .navbar-nav > li > a {    color: #455A79;}.navbar-default .navbar-nav > 
+/*hacking06*/li > a:hover,. navbar-default .navbar-nav > li > a:focus {    color: #333;    background-color: transparent;}.navbar-default .navbar-nav > .active > a,.navbar-default .
+/*hacking08*/navbar-nav > . active > a:hover,.navbar-default .navbar-nav > .active > a:focus {    color: #555;    background-color: #e7e7e7;}.navbar-default .navbar-nav > .disabled
+/*hacking09*/> a,. navbar-default .navbar-nav > .disabled > a:hover,.navbar-default .navbar-nav > .disabled > a:focus {    color: #ccc;    background-color: transparent;}. 
+/*hacking10*/navbar-default . navbar-toggle {  border-color: #ddd;}.navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:focus {    background-color: #ddd;}. navbar-default . 
+navbar-toggle .icon-bar {    background-color: #888;}.navbar-default .navbar-collapse,.navbar-default .navbar-form {    border-color: #e7e7e7;}. navbar-default . navbar-nav >
+ .open > a,.navbar-default .navbar-nav > .open > a:hover,.navbar-default .navbar-nav > .open > a:focus {   color: #555;   background-color: #e7e7e7;}@ media 
+(max-width: 767px) { .navbar-default .navbar-nav .open .dropdown-menu > li > a {       color: #777;    }    .navbar-default . navbar-nav .open .dropdown-menu > li > a:
+hover,    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {       color: #333;       background-color: transparent;    }    .navbar-default . 
+navbar-nav .open .dropdown-menu > .active > a,   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,   . navbar-default .navbar-nav .open .dropdown-menu > .
+active > a:focus {        color: #555;        background-color: #e7e7e7;   }    .navbar-default .navbar-nav .open  .dropdown-menu > .disabled > a,    . navbar-default .
+navbar-nav .open .dropdown-menu > .disabled > a:hover,    .navbar-default .navbar-nav .open .dropdown-menu > . disabled > a:focus {color:#ccc; background-color: 
+transparent;}}.navbar-default .navbar-link {color:#777;}.navbar-default .navbar-link:hover {    color: #333;}. navbar-default .btn-link {    color: #777;}.
+navbar-default .btn-link:hover,.navbar-default .btn-link:focus {    color: #333;}.navbar-default .btn-link[disabled]: hover,fieldset[disabled] .navbar-default . btn-link:
+hover,.navbar-default .btn-link[disabled]:focus,fieldset[disabled] .navbar-default .btn-link:focus {    color: #ccc ;}.down-bar{background-color:#0a9; padding-bottom
+:60px; margin-right:-15px; margin-left:-15px;}div.panel:first-child {margin-top:20px;}div.treeview {    min-width:  100px;    min-height: 100px;         max-height
+: 256px;   overflow:auto;		padding: 4px;		margin-bottom: 20px;		color:#242;		border: solid 1px ;	border-radius: 4px;}div. treeview ul:first-child:
+before {    display: none;}.treeview, .treeview ul {   margin:0;    padding:0;    list-style:none;    	color: #242;}.treeview ul {    margin-left:1em;    
+position:
+relative}.treeview ul ul { margin-left:.5em}.treeview ul:before {   content:"";    display:block;    width:0;    position:absolute;top: 0;left:0;border-left:1px 
+solid;bottom:15px;}.treeview li {margin:0;padding:0 1em;line-height:2em;font-weight:700;position:relative}.treeview ul li:before {    content:"";    display:block;
+    width:10px;    height:0;    border-top:1px solid;    margin-top:-1px;    position:absolute;    top:1em;  left:0 }. tree-indicator {margin-right:5px;cursor:
+pointer;}.treeview li a {    text-decoration: none;    color:inherit;        cursor:pointer;}.treeview li button, .treeview li button:active, .treeview li button:focus {    
+text-decoration: none;    color:inherit;    border:none;    background:transparent;    margin:0px 0px 0px 0px;    padding:0px 0px 0px 0px;    outline: 0;}/* 
+tree list*/div.panel:first-child {    margin-top:20px;}div.treeview {    min-width: 100px;    min-height: 100px;        max-height: 256px;    overflow:auto;		
+padding: 4px;		margin-bottom: 20px;		color:#242;		border: solid 1px;	border-radius: 4px;}div.treeview ul: first-child:before {    display: none;}.
+treeview, .treeview ul {    margin:0;    padding:0;    list-style:none;    	color:#242;}.treeview ul {    margin-left:1em;      position:relative}.treeview ul ul {
+    margin-left:.5em}.treeview ul:before {    content:"";    display:block;    width:0px;    position:absolute;top:0px;left:  0px;border-left:1px solid;bottom:
+15px;}.treeview li {margin:0;padding:0 1em;line-height:2em;font-weight:700;position:relative}.treeview ul li:before {content:""; display:block;width:10px;height:0;
+border-top:1px solid;margin-top:-1px;position:absolute;top:1em;left:0}.tree-indicator{margin-right:5px;cursor:pointer;}. treeview li a {text-decoration:none;color:
+inherit;cursor:pointer;}.treeview li button,.treeview li button:active,.treeview li button:focus{text-decoration:none;color:inherit; border: none;background:transparent;
+margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;outline:0;}.space-side{margin-top:30px;}.bgcolor-my-style{background-color: #0a9}.color-my-style{color:#054;}.color-my-style-white{color:white}.for-mobile{margin-top:-30px;margin-right:-15px;margin-left:-15px;padding:10px; background-color: #0a9;color:#fff;"}
